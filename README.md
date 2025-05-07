@@ -19,5 +19,6 @@
 - Power-ups and enemy AI
 
 ## 📧 Contact
-- Developer: Ahmad Q.
-- Email: ahmad.frozo@gmail.com
+- Developer: sama Q.
+- Email: s12219266@stu.najah.edu
+- https://sites.google.com/d/1nbZMWg3X2ztYazhlNV5kUPiFLIlCpGue/p/1TFhjiowHM28ojy4GLBpgvTSpUrzc76Eb/edit?pli=1
